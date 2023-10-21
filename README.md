@@ -2,9 +2,9 @@
 
 screen shot
 
-![image](https://github.com/abdulaagariya/Bug-Blog-main/assets/128514071/a8baa31b-967b-495a-a790-a6cf0d50311b)
+![image](https://github.com/abdulaagariya/Bug-Blog-main/assets/128514071/fdaa1be5-1683-4f46-bae9-322fe1348b54)
 
-![image](https://github.com/abdulaagariya/Bug-Blog-main/assets/128514071/0de94454-08ba-4783-ae19-0b349919c1b4)
+![image](https://github.com/abdulaagariya/Bug-Blog-main/assets/128514071/14cd4b94-3eb6-4920-8bea-ef5c8c16f13f)
 
 ![image](https://github.com/abdulaagariya/Bug-Blog-main/assets/128514071/87a81930-96af-4009-9d8d-21ed882f6817)
 
